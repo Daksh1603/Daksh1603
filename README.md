@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/90456255/211998061-9f1bdf0a-a76e-430d-bedd-35c07a8230d7.gif" width="1600px" height="400px">
 -->
 
-<img src="https://user-images.githubusercontent.com/90456255/211998043-dec0106e-74b0-4dd7-8141-ae04c95daf29.gif" width="1600px" height="400px">
+<img src="https://user-images.githubusercontent.com/90456255/211998043-dec0106e-74b0-4dd7-8141-ae04c95daf29.gif" width="1600px" height="300px">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daksh Rathore.</h1>
 <h3 align="center">~ Data Whisperer ~</h3>
