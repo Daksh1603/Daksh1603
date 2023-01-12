@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Scenic Beauty-1600x480_68](wallp.jpg)
+![Scenic Beauty-1600x480_68](https://user-images.githubusercontent.com/90456255/211994145-5083ce2a-4583-42d7-9f2c-8123c3fd9c32.jpg)
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/90456255/211994145-5083ce2a-4583-42d7-9f2c-8123c3fd9c32.jpg" width="25px">, I'm Daksh Rathore.</h1>
 <h3 align="center">~ Data Whisperer ~</h3>
 <h5 align="center">Self-Proclaimed</h5>
