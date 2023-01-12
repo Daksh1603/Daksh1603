@@ -50,7 +50,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **daksh.rathore9@gmail.com**
 
-- ⚡ Fun fact : 
-
 - 🐍 `Ain't no love in the jungle .`
 </div>
