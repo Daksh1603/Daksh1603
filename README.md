@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Scenic Beauty-1600x480_68](https://user-images.githubusercontent.com/90456255/211994791-27113833-33dd-4573-a799-f92a833b3cb7.jpg)
-
-<img src="https://user-images.githubusercontent.com/90456255/211998043-dec0106e-74b0-4dd7-8141-ae04c95daf29.gif" width="1600px" height="400px">
+<!--![Scenic Beauty-1600x480_68](https://user-images.githubusercontent.com/90456255/211994791-27113833-33dd-4573-a799-f92a833b3cb7.jpg)
 <img src="https://user-images.githubusercontent.com/90456255/211998053-16043258-3f0c-4168-9e99-37bba53ad04f.gif" width="1600px" height="400px">
 <img src="https://user-images.githubusercontent.com/90456255/211998061-9f1bdf0a-a76e-430d-bedd-35c07a8230d7.gif" width="1600px" height="400px">
+-->
+
+<img src="https://user-images.githubusercontent.com/90456255/211998043-dec0106e-74b0-4dd7-8141-ae04c95daf29.gif" width="1600px" height="400px">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daksh Rathore.</h1>
 <h3 align="center">~ Data Whisperer ~</h3>
