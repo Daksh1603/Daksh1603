@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Computer Vision Based Projects**
 
-- 💬 Ask me about **flutter, firebase, nodejs**
+- 💬 Ask me about **ML , DL & Data Science**
 
 - 📫 How to reach me **daksh.rathore9@gmail.com**
 
